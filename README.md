@@ -34,4 +34,5 @@ Sample project and exe included
      Delphi (VCL)   
      Skia4Delphi  (for Skia bindings)   
         
-     
+
+---- we must put it in a panel then it hides other ctrls ... ;)
