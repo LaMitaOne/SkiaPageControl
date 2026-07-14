@@ -2,6 +2,9 @@
 Delphi RAD Studio skia4delphi - SkiaPageControl (Prototype)   
        
 A next-generation VCL PageControl prototype that brings GPU-accelerated, fluid transitions to Delphi applications using the Skia graphics library.    
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/SkiaPageControl)
+   
     
 This project is a proof-of-concept to demonstrate that legacy VCL controls can be modernized with smooth, high-performance animations without heavy CPU overhead.   
    
