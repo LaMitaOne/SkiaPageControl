@@ -29,7 +29,9 @@ Please note that this is currently a prototype and not a final production-ready 
     It hides the actual VCL controls to prevent "ghosting" or artifacts.   
     A Skia overlay (TSkPaintBox) is brought to the front to render the transition animation (Blur/Slide) using the cached bitmaps.   
     Once the animation finishes, the overlay is hidden, and the new VCL controls are revealed.   
-     
+      
+-Added GPU particle version, but i am not happy with it, still added it here, maybe someone can use it somehow             
+       
 Sample project and exe included    
  
 🔧 Dependencies    
