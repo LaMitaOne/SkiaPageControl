@@ -30,7 +30,9 @@ Please note that this is currently a prototype and not a final production-ready 
     A Skia overlay (TSkPaintBox) is brought to the front to render the transition animation (Blur/Slide) using the cached bitmaps.   
     Once the animation finishes, the overlay is hidden, and the new VCL controls are revealed.   
       
--Added GPU particle version, but i am not happy with it, still added it here, maybe someone can use it somehow             
+-Added GPU particle version, but i am not happy with it, still added it here, maybe someone can use it somehow            
+<img width="719" height="510" alt="Unbenannt" src="https://github.com/user-attachments/assets/cb1cd9dc-bfb3-4537-8dab-bf0385417c61" />
+
        
 Sample project and exe included    
  
